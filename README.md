@@ -23,8 +23,7 @@ login-app/
 
 ## Installation
 
-1. **Clone the repository**:
-   ```bash
+Clone the repository:
    git clone https://github.com/jayapritha-cse26/login-app.git
    cd login-app
 
