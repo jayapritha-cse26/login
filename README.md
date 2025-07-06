@@ -21,12 +21,6 @@ login-app/
 - Console log for submitted email and password
 - Modular header/footer with EJS includes
 
-## Installation
-
-Clone the repository:
-   git clone https://github.com/jayapritha-cse26/login-app.git
-   cd login-app
-
 ## Install dependencies:
 
    npm install
